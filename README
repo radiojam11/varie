@@ -1,0 +1,17 @@
+Istruzioni per creare e attivare un virtual environment:
+    1. cd path/to/project
+    2. python3 -m virtualenv .venv
+    3.  [PER UNIX] . .venv/bin/activate
+        [PER WIN] .venv\Scripts\activate
+
+Istruzioni per installare i pacchetti esterni:
+    pip install -r requirements.txt
+oppure
+    pip install streamlit pandas
+
+Istruzioni per avviare streamlit:
+    streamlit run covid-trends/streamlit_avvio.py
+
+Link utili:
+    streamlit: https://docs.streamlit.io/en/stable/
+    pandas: https://pandas.pydata.org/pandas-docs/stable/reference/
