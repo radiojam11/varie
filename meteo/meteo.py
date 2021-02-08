@@ -11,7 +11,7 @@ from time import sleep
 # type here your API key!
 # or you can use ours...however, if our calls quota is exceded 
 # the example won't work :(
-api_key = "bd4ba90e2b397e24a925e436a9d8fed9"
+api_key = "XXXXX qui la tua key"
         
 while(True):
         
